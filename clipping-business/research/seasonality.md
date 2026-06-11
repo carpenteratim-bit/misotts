@@ -1,31 +1,33 @@
 # Seasonality Calendar
 
+## Full Year RPM Fluctuation Map
+
+| Quarter | CPM Change | Driver | What to Do |
+|---|---|---|---|
+| Q1 Jan-Feb | **-30% to -50%** | Post-holiday budget reset | List building, digital products, recurring affiliates |
+| Q1 Mar + Q2 | +10% to +20% | Spring shopping, tax season | Tax/finance clips, fintech affiliate links |
+| Q3 Jul-Sep | Stable + back-to-school spike | Electronics launches, school prep | Tech reviews, productivity, student content |
+| Q4 Oct | +20% to +40% | Early holiday prep | Product placements, affiliate links, sponsorships |
+| Q4 Nov-Dec | **+40% to +100%** | Black Friday, Cyber Monday, Christmas | MAX posting frequency, transactional content |
+
+---
+
 ## June 2026 (RIGHT NOW)
-- World Cup 2026 is active — sports picks content is at peak demand
+- World Cup 2026 is active — sports picks content at peak demand
 - Summer body content peaking (fitness)
 - "Summer side hustle" angle works for finance content
+- CPM recovering from Q1 crash — good time to build volume
 
-## Q3 (Jul-Sep)
-- NFL preseason starts Aug — sports picks ramp up
-- Back to school / back to hustle — finance content peaks
-- Summer travel content (travel affiliate potential)
+## Upcoming Opportunities
+- **Sep 2026**: NFL kickoff + back-to-school = double peak for sports + finance
+- **Nov-Dec 2026**: Highest CPMs of year — start building audience NOW to cash in then
 
-## Q4 (Oct-Dec)
-- NFL regular season peak — highest sports picks volume
-- Black Friday / ecommerce content
-- Year-end money content ("make money before 2027")
-- Holiday shopping
+---
 
-## Q1 (Jan-Mar)
-- Biggest finance/self-improvement season — "new year new money"
-- New Year resolutions = fitness + finance peak
-- Super Bowl (Feb) = sports picks peak
-
-## Q2 (Apr-Jun)
-- NBA Playoffs (Apr-Jun)
-- UFC cards pick up
-- Tax season content (finance)
-- Summer prep (fitness)
+## Strategic Implication
+We are building accounts in June. By Q4 (Oct-Dec) when CPMs are 40-100% higher,
+we should have established accounts with algorithm signal. 
+Build now. Cash in at Q4.
 
 ---
 
